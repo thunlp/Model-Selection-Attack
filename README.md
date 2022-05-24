@@ -5,7 +5,7 @@ The codes for Model Disguise Attack (MDA) are in the MDA directory.
 
 The codes for Evaluation Data Selection (EDS) are in the EDS directory.
 
-MDA：
+## MDA：
 
 [1] run "python train_dropout0.10.05.py", you can perform model disguise attack on BERT model and get a disguised BERT model. 
 
@@ -16,7 +16,7 @@ MDA：
 [4] run "python score_roberta.py", you can get the LogME score of the RoBERTa model.
 
 
-EDS：
+## EDS：
 
 [1] run "python select_subset.py" and then run "python get_samples.py", you can perform evaluation data selection and get the selected subset.
 
@@ -26,7 +26,7 @@ EDS：
 
 [4] run "python score_roberta.py", you can get the LogME score of the RoBERTa model on the selected subset.
 
-References:
+## References:
 
 [1] SupCL-Seq: Supervised Contrastive Learning for Downstream Optimized Sequence Representations
 
