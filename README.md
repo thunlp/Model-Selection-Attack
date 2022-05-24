@@ -7,7 +7,7 @@ The codes for Evaluation Data Selection (EDS) are in the EDS directory.
 
 ## MDA：
 
-[1] run "python train_dropout0.10.05.py", you can perform model disguise attack on BERT model and get a disguised BERT model. 
+[1] run ```python train_dropout0.10.05.py```, you can perform model disguise attack on BERT model and get a disguised BERT model. 
 
 [2] run "python score_MDA.py", you can get the LogME score of the disguised BERT model.
 
