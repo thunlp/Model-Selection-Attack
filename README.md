@@ -20,7 +20,7 @@ EDS：
 
 [1] run "python select_subset.py" and then run "python get_samples.py", you can perform evaluation data selection and get the selected subset.
 
-[2] add the title "sentence	label" (using "\t" to separate "sentence" and "label") for the file "train_select_new_sst2.tsv" to get the file "train_sst2_with_title.tsv". 
+[2] add the title "sentence label" for the file "train_select_new_sst2.tsv" to get the file "train_sst2_with_title.tsv". 
 
 [3] run "python score_bert.py", you can get the LogME score of the BERT model on the selected subset.
 
