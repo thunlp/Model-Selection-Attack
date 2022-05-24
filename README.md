@@ -6,3 +6,5 @@ References:
 [1] SupCL-Seq: Supervised Contrastive Learning for Downstream Optimized Sequence Representations
 
 [2] Supervised Contrastive Learning
+
+[3] LogME: Practical Assessment of Pre-trained Models for Transfer Learning
