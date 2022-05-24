@@ -18,7 +18,7 @@ The codes for Evaluation Data Selection (EDS) are in the EDS directory.
 
 ## EDS：
 
-[1] run ```python select_subset.py``` and then run "python get_samples.py", you can perform evaluation data selection and get the selected subset.
+[1] run ```python select_subset.py``` and then run ```python get_samples.py```, you can perform evaluation data selection and get the selected subset.
 
 [2] add the title "sentence label" (the separator is '\t') for the file "train_select_new_sst2.tsv" to get the file "train_sst2_with_title.tsv". 
 
